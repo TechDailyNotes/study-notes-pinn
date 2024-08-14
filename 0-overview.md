@@ -1,4 +1,4 @@
-# PINN Basics
+# Overview on PINN
 
 ## Functionality
 
@@ -11,4 +11,3 @@
 - Static Data
 - Interactive Data
 - Living and Physical Data
-
